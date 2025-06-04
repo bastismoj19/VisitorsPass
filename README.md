@@ -1,1 +1,1 @@
-# Visitor-sPass
+# VisitorsPass using jquery.js
